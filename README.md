@@ -82,12 +82,12 @@
 ### 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanadbekovboomu-bot&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanadbekovboomu-bot&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=kanadbekovboomu-bot&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanadbekovboomu-bot&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanadbekovboomu-bot&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 ---
